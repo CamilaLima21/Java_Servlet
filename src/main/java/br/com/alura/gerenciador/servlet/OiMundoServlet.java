@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 // oi
-@WebServlet(urlPatterns = "/oi")
+//@WebServlet(urlPatterns = "/oi")
 public class OiMundoServlet extends HttpServlet {
 	
 	public OiMundoServlet() {
